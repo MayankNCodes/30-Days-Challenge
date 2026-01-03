@@ -19,7 +19,7 @@ The goal of this challenge is to build **coding consistency**, improve **problem
 |----|------|-----------------|-------------|--------|
 | [Day 01](./Day01) | 2025-01-01 | Java Programming | I/O Operations, If-else, Scanner, PRNG  implementation | ✅ |
 | [Day 02](./Day02) | 2025-01-02 | Solved CTFs | Web Exploitation, ROT-13, Forensics | ✅ |
-| [Day 03](./Day03) | YYYY-MM-DD | Topic / Problem Name | Short description | ⬜ |
+| [Day 03](./Day03) | YYYY-MM-DD | Hashing | Hash Generation & Validation | ✅ |
 | [Day 04](./Day04) | YYYY-MM-DD | Topic / Problem Name | Short description | ⬜ |
 | [Day 05](./Day05) | YYYY-MM-DD | Topic / Problem Name | Short description | ⬜ |
 | [Day 06](./Day06) | YYYY-MM-DD | Topic / Problem Name | Short description | ⬜ |
