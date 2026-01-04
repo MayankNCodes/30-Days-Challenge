@@ -8,7 +8,7 @@ The goal of this challenge is to build **coding consistency**, improve **problem
 ## 🧠 Tech Stack
 - Language(s): C++ / Python / JavaScript / Java / etc.
 - Concepts: DSA, OOPS, CTF Challenges, Algorithms, Problem Solving
-- Platform(s): LeetCode, CodeChef, HackerRank, Custom Projects, CTF Platforms
+- Platform(s): LeetCode, CodeChef, HackerRank, Custom Projects, CTF Platforms.
 
 ---
 
